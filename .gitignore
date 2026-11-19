@@ -1,0 +1,11 @@
+/target
+*.bin
+*.scr
+*.ppm
+
+# AI and editor files
+.claude/
+.superpowers/
+CLAUDE.md
+docs/plans/
+docs/specs/

@@ -1,0 +1,8 @@
+[package]
+name = "mergesort-saver"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+minifb = "0.29.0"
+windows-sys = { version = "0.59", features = ["Win32_UI_WindowsAndMessaging", "Win32_UI_HiDpi", "Win32_Foundation"] }

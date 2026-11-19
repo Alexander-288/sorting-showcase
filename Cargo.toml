@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = ["quicksort-windows", "mergesort-saver"]
+
+[profile.release]
+opt-level = 3
